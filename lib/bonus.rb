@@ -21,9 +21,12 @@ def bonus
   }
 
   #code your solution here: 
+<<<<<<< HEAD
   
   epic_tragedy[:montague][:hero][:status] = "dead"
   epic_tragedy[:capulet][:heroine][:status] = "dead"
+=======
+>>>>>>> 07ec95fcbb38413ec1cead775412cb317a56a568
   # epic_tragedy[montague => hero]<< "dead"
 
   # contacts["Jon Snow"][:favorite_ice_cream_flavors]
